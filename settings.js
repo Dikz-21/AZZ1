@@ -7,14 +7,14 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.youtube = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
-global.ownername = 'YahyaGanzz'
+global.owner = ['6287874908265']
+global.premium = ['6285839814393']
+global.youtube = 'https://youtube.com/channel/UCKacBHBWteoFh_Ea5SiAJrQ'
+global.ownername = 'Aulia ><'
 global.botname ='AzzBot-Md'
 global.donasi = {
     saweria: 'Kaga Punya',
-    nomor: '081511480762'
+    nomor: '085839814393'
 }
 global.packname = 'AzzBot'
 global.author = 'WhatsApp Bot'
